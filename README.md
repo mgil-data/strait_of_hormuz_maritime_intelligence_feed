@@ -42,6 +42,10 @@ All sources are linked through a shared Foundry ontology, connecting vessels to 
 - **Data modeling:** from raw ingestion to cleaned/transformed tables; then, to ontology objects and links
 - **Tech stack:** Python (Polars/Pandas) for ingestion and transformation, REST APIs for source integration, Foundry and AIP for orchestration and ontology modeling
 
+## Setup
+
+Replace `<DATASET_RID>` with your Foundry dataset RIDs and `<API_KEY>` with your VesselAPI key before running.
+
 ## Goals
 
 This project was built to demonstrate hands-on proficiency with Foundry and AIP tools, independent problem-solving, and the ability to transform fragmented open-source data into a coherent, operationally meaningful intelligence picture. To showcase these capabilities, I chose a topic at the center of current geopolitical tensions.
