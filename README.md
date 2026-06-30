@@ -1,4 +1,4 @@
-#strait_of_hormuz_maritime_intelligence_fee.py
+#strait_of_hormuz_maritime_intelligence_feed
 Real-time maritime OSINT pipeline monitoring the Strait of Hormuz crisis, built on Palantir Foundry.
 
 # Hormuz Maritime Intelligence Pipeline
